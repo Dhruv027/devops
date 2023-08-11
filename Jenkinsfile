@@ -28,7 +28,7 @@ pipeline {
                 DOCKER_HUB_USERNAME = 'Dhruv027'
                 DOCKER_HUB_REPOSITORY = 'my_web_app_image'
                 // Define your Docker Hub password
-                DOCKER_HUB_PASSWORD = 'Pikachu2700@'
+                DOCKER_HUB_PASSWORD = 'Dhruv123@'
             }
             steps {
                 // Tag the Docker image with Docker Hub repository name
